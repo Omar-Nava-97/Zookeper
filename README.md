@@ -4,6 +4,6 @@ List en SwiftUI es una vista que nos permite mostrar varias subvistas en su inte
 <h1 align="center">Visualización</h1>
 
 <p align="center">
-  <img align="center" alt="Coding" src="https://i.postimg.cc/B6yb4JtJ/Simulator-Screen-Shot-i-Phone-11-2022-08-07-at-17-40-36-iphone12black-portrait.png"> 
+  <img align="center" alt="Coding" src="https://i.postimg.cc/6qZvPMt6/Simulator-Screen-Shot-i-Phone-11-2022-08-07-at-19-00-36-iphone12black-portrait.png"> 
 </p>
 
